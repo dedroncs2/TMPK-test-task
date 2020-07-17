@@ -1,0 +1,10 @@
+C:\Users\dedro\source\repos\radius\radius\bin\Debug\radius.exe.config
+C:\Users\dedro\source\repos\radius\radius\bin\Debug\radius.exe
+C:\Users\dedro\source\repos\radius\radius\bin\Debug\radius.pdb
+C:\Users\dedro\source\repos\radius\radius\obj\Debug\radius.csprojAssemblyReference.cache
+C:\Users\dedro\source\repos\radius\radius\obj\Debug\radius.Form1.resources
+C:\Users\dedro\source\repos\radius\radius\obj\Debug\radius.Properties.Resources.resources
+C:\Users\dedro\source\repos\radius\radius\obj\Debug\radius.csproj.GenerateResource.cache
+C:\Users\dedro\source\repos\radius\radius\obj\Debug\radius.csproj.CoreCompileInputs.cache
+C:\Users\dedro\source\repos\radius\radius\obj\Debug\radius.exe
+C:\Users\dedro\source\repos\radius\radius\obj\Debug\radius.pdb

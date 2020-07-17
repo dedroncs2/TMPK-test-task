@@ -1,0 +1,24 @@
+npx sequelize-cli model:generate --name table1 --attributes contractId:integer,f:string,i:string,o:string,n:string,e:string
+npx sequelize-cli model:generate --name table2 --attributes balance:integer,q:string,w:string
+router.get('/aa', async (ctx, next) => {
+  //ctx.body="AYAYA";
+  try{
+    let tabledata = await db.table2.findAll(
+        {where:{}},
+        {raw:true});
+    ctx.body= tabledata;
+  }
+  catch (e) {
+    console.error('err',e);
+    ctx.status=500;
+    ctx.body="FeelsBadMan";
+  }
+});
+{include:[
+      {
+        model: db.table1,
+        attributes: ['f','i','o']
+      }]},
+        {attributes: ['balance']},
+        {where:{}},
+        {raw:true});
