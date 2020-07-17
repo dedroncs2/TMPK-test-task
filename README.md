@@ -1,5 +1,6 @@
 # TMPK-test-task
 Техническое задание для испытательной работы на должность «инженер-программист» ТМПК
+<br/>ТЗ находиться в фаиле zadanie
 <br/>Первое задание сделано на спомощью sequelize и PostgreSQL все модели и миграции в папке koa-serverb
 <br/>Второе задание сделано на Nuxtjs и Koajs 
 <br/>Третие задание сделано на JavaScript и telegram Bot API все в папке node bot имя MyPepegaBot
